@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using concatjson.Models;
 
-namespace concatjson
+namespace concatjson.Models
 {
     public class NestObjctTest
     {
